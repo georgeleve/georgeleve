@@ -9,3 +9,4 @@
 - ⚡ Fun fact: I like Travelling, Cooking and going to the Gym
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georgeleve)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=georgeleve&count_private=true)
