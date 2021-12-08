@@ -8,4 +8,4 @@
 - 📫 How to reach me: leventopoulos.george@gmail.com
 - ⚡ Fun fact: I like Travelling, Cooking and going to the Gym
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georgeleve)](https://github.com/anuraghazra/github-readme-stats)
