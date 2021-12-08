@@ -8,4 +8,4 @@
 - 📫 How to reach me: leventopoulos.george@gmail.com
 - ⚡ Fun fact: I like Travelling, Cooking and going to the Gym
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=georgeleve&count_private=true&show_icons=prussian)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=georgeleve&count_private=true&show_icons=true)
