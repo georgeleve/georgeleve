@@ -1,4 +1,4 @@
-### Hi there 👋 I am George Leventopoulos
+### 👋 Hi there, my name is George Leventopoulos
 
 
 ### About me
