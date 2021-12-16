@@ -6,6 +6,6 @@
 - 🌱 Right now I am learning Full Stack Development using Java on the backend 
 - 💬 Ask me about anything you want, I will try to answer even though I don't have all the answers
 - 📫 How to reach me: leventopoulos.george@gmail.com
-- ⚡ For fun: I like Travelling, Cooking and going to the Gym
+- ⚡ For fun: I like Building things, Travelling, Cooking and going to the Gym
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=georgeleve&theme=prussian&show_icons=true)
