@@ -2,7 +2,7 @@
 
 
 ### About me
-- 🔭 I’m currently studying Computer Science at the University of Crete & Tampere University
+- 🔭 I studied Computer Science at the University of Crete & I did exchange studies at Tampere University
 - 📫 How to reach me: leventopoulos.george@gmail.com
 - Feel free to ask me anything.
 
