@@ -3,7 +3,7 @@
 
 ### About me
 - 🔭 I studied Computer Science at the University of Crete (2018-2022) & I did exchange studies at Tampere University (2022).
-- I worked as a Software Testing Engineer at Nokia for a year.
+- I am currently working as a Software Engineer at Nokia.
 - 📫 How to reach me: leventopoulos.george@gmail.com .
 - Feel free to ask me anything.
 
